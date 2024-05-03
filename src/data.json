@@ -1,0 +1,37 @@
+{
+  "fullName": "Aarush Sagar",
+  "metadata": {
+    "title": "Aarush Sagar - FullStack Developer",
+    "description": "",
+    "keywords": [
+      "Aarush Sagar",
+      "India",
+      "FullStack Developer",
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "Angular",
+      "Node.js"
+    ]
+  },
+  "typedText": ["Web Developer", "Software Developer", "Web3 Enthusiast"],
+  "email": "sagaraarush10@gmail.com",
+  "location": "Uttar Pradesh, India",
+  "description": [
+    "Hey there! I'm Aarush Sagar, a 14-year-old web developer and Web3 enthusiast. Passionate about technology, I love crafting sleek website.Join me as I dive into the ever-evolving world of tech and strive to make an impact, one line of code at a time. Let's build the future together!"
+  ],
+  "links": {
+    "instagram": "https://instagram.com/og_aarush",
+    "github": "",
+    "mail": "",
+    "blog": ""
+  },
+  "skills": [
+    "html",
+    "css",
+    "javascript"
+  ],
+  "projects": [
+
+  ]
+}
