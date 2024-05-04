@@ -17,6 +17,7 @@
     p {
       font-size: 1.5rem;
       @include font-primary;
+      margin-top: 25px;
 
       span {
         color: var(--bs-accent);
@@ -27,6 +28,7 @@
       width: 50%;
       min-width: 200px;
       text-align: left;
+      margin-top: 25px;
 
       a {
         text-decoration: none;
